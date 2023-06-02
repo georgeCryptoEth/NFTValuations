@@ -1,0 +1,9 @@
+﻿{
+    "address":{
+        "data_type":"string"
+    },
+    "uint256": {
+        "data_type":"string"
+    }
+
+}
