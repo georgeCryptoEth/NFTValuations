@@ -37,7 +37,7 @@ namespace Demo2CSharp
     class Web3APIClass
     {
 
-        public string api_key = "7172555c950b4e3b804d26211a510188";
+        public string api_key = "";
 
         public JsonInfuraClass GetJSONData(String action, String [] param)
         {
